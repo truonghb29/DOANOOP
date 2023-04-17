@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-141.57025411061284" y="381.45254110612854">CDNhacDuongDai</node>
+    <node x="278.94917787742907" y="-250.261438059575">DanhSachCD</node>
+    <node x="510.39835575485813" y="-250.26143805957497">Main</node>
+    <node x="-444.6913303437968" y="378.5635276532138">CDNhacCoDien</node>
+    <node x="10.5" y="-250.26143805957497">QuanLyKho</node>
+    <node x="-282.61883408071753" y="-259.01671459171246">CD</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="CDNhacCoDien" target="CD" relationship="GENERALIZATION">
+      <point x="0.0" y="-49.0" />
+      <point x="-368.1913303437968" y="310.5798969072165" />
+      <point x="-186.61883408071753" y="310.5798969072165" />
+      <point x="0.0" y="263.69067572773645" />
+    </edge>
+    <edge source="CDNhacDuongDai" target="CD" relationship="GENERALIZATION">
+      <point x="0.0" y="-49.0" />
+      <point x="-65.07025411061284" y="310.5798969072165" />
+      <point x="-186.61883408071753" y="310.5798969072165" />
+      <point x="0.0" y="263.69067572773645" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.256385216346154" showDependencies="false" x="-112.06260089686106" y="150.21967115097158" />
+  <SelectedNodes>
+    <node>CD</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
